@@ -17,3 +17,5 @@ http://college.cengage.com/mathematics/brase/understandable_statistics/7e/studen
 
 I have taken X1 as a target variable and x3,x4,x5,x6 and x7 as independent variable.
 The data looks something like this:
+
+![image](https://cloud.githubusercontent.com/assets/18343130/22536242/3e50df88-e8ce-11e6-8fe8-3a8dda71658f.png)
