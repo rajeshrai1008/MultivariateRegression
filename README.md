@@ -18,4 +18,10 @@ http://college.cengage.com/mathematics/brase/understandable_statistics/7e/studen
 I have taken X1 as a target variable and x3,x4,x5,x6 and x7 as independent variable.
 The data looks something like this:
 
+![image](https://cloud.githubusercontent.com/assets/18343130/22536184/c7b2e70e-e8cd-11e6-9661-2bd05a10777d.png)
+
+After running the multivariate regression model the out looks like the one given below:
+
 ![image](https://cloud.githubusercontent.com/assets/18343130/22536242/3e50df88-e8ce-11e6-8fe8-3a8dda71658f.png)
+
+Seeing the std err we can infer that the total reported crime depends on
