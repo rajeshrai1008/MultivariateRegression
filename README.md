@@ -24,4 +24,4 @@ After running the multivariate regression model the out looks like the one given
 
 ![image](https://cloud.githubusercontent.com/assets/18343130/22536242/3e50df88-e8ce-11e6-8fe8-3a8dda71658f.png)
 
-Seeing the std err we can infer that the total reported crime depends on
+Seeing the std err we can infer that the total reported crime depends on annual police funding, %of 18 to 24 year olds in college and % of people 25 years+ with 4 years of high school.
